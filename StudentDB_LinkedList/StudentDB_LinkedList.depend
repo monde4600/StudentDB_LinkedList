@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1667323900 source:e:\embided_deblom\nti\c_programming\coding\studentdb_linkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"app_config.h"
+	"fun.h"
+
+1667323601 e:\embided_deblom\nti\c_programming\coding\studentdb_linkedlist\app_config.h
+
+1667323126 e:\embided_deblom\nti\c_programming\coding\studentdb_linkedlist\fun.h
+
+1667321822 source:e:\embided_deblom\nti\c_programming\coding\studentdb_linkedlist\fun.c
+	"app_config.h"
+
